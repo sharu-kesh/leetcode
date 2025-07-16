@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sharu-kesh/leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/sharu-kesh/leetcode/tree/master/0496-next-greater-element-i) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sharu-kesh/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/sharu-kesh/leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2479-meeting-rooms-iii](https://github.com/sharu-kesh/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sharu-kesh/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Hash Table
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/sharu-kesh/leetcode/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/sharu-kesh/leetcode/tree/master/0455-assign-cookies) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/sharu-kesh/leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sharu-kesh/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Linked List
 |  |
