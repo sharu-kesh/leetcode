@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/sharu-kesh/leetcode/tree/master/0134-gas-station) |
+| [0238-product-of-array-except-self](https://github.com/sharu-kesh/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/sharu-kesh/leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/sharu-kesh/leetcode/tree/master/0496-next-greater-element-i) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sharu-kesh/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sharu-kesh/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sharu-kesh/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
