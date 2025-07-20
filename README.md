@@ -128,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sharu-kesh/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Database
+|  |
+| ------- |
+| [1801-average-time-of-process-per-machine](https://github.com/sharu-kesh/leetcode/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
