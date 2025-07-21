@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/sharu-kesh/leetcode/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/sharu-kesh/leetcode/tree/master/0402-remove-k-digits) |
 | [0556-next-greater-element-iii](https://github.com/sharu-kesh/leetcode/tree/master/0556-next-greater-element-iii) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/sharu-kesh/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sharu-kesh/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3396-valid-word](https://github.com/sharu-kesh/leetcode/tree/master/3396-valid-word) |
 ## Sorting
