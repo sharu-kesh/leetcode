@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/sharu-kesh/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/sharu-kesh/leetcode/tree/master/0496-next-greater-element-i) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/sharu-kesh/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/sharu-kesh/leetcode/tree/master/0556-next-greater-element-iii) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sharu-kesh/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sharu-kesh/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/sharu-kesh/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3396-valid-word](https://github.com/sharu-kesh/leetcode/tree/master/3396-valid-word) |
 ## Sorting
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/sharu-kesh/leetcode/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/sharu-kesh/leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/sharu-kesh/leetcode/tree/master/0455-assign-cookies) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/sharu-kesh/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/sharu-kesh/leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sharu-kesh/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Linked List
