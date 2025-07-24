@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/sharu-kesh/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/sharu-kesh/leetcode/tree/master/0496-next-greater-element-i) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sharu-kesh/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2317-count-collisions-on-a-road](https://github.com/sharu-kesh/leetcode/tree/master/2317-count-collisions-on-a-road) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sharu-kesh/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sharu-kesh/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sharu-kesh/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2317-count-collisions-on-a-road](https://github.com/sharu-kesh/leetcode/tree/master/2317-count-collisions-on-a-road) |
 | [3396-valid-word](https://github.com/sharu-kesh/leetcode/tree/master/3396-valid-word) |
 ## Sorting
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/sharu-kesh/leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [2317-count-collisions-on-a-road](https://github.com/sharu-kesh/leetcode/tree/master/2317-count-collisions-on-a-road) |
 | [2479-meeting-rooms-iii](https://github.com/sharu-kesh/leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Sliding Window
 |  |
