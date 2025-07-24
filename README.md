@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sharu-kesh/leetcode/tree/master/0496-next-greater-element-i) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sharu-kesh/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sharu-kesh/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/sharu-kesh/leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1813-maximum-erasure-value](https://github.com/sharu-kesh/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/sharu-kesh/leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sharu-kesh/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/sharu-kesh/leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2479-meeting-rooms-iii](https://github.com/sharu-kesh/leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Sliding Window
 |  |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-students-and-examinations](https://github.com/sharu-kesh/leetcode/tree/master/1415-students-and-examinations) |
 | [1801-average-time-of-process-per-machine](https://github.com/sharu-kesh/leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [2087-confirmation-rate](https://github.com/sharu-kesh/leetcode/tree/master/2087-confirmation-rate) |
+## Brainteaser
+|  |
+| ------- |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/sharu-kesh/leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 <!---LeetCode Topics End-->
