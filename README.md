@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/sharu-kesh/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sharu-kesh/leetcode/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/sharu-kesh/leetcode/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/sharu-kesh/leetcode/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/sharu-kesh/leetcode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/sharu-kesh/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/sharu-kesh/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sharu-kesh/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sharu-kesh/leetcode/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/sharu-kesh/leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/sharu-kesh/leetcode/tree/master/0198-house-robber) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sharu-kesh/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Prefix Sum
