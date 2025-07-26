@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sharu-kesh/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sharu-kesh/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/sharu-kesh/leetcode/tree/master/0231-power-of-two) |
 | [0556-next-greater-element-iii](https://github.com/sharu-kesh/leetcode/tree/master/0556-next-greater-element-iii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sharu-kesh/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sharu-kesh/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/sharu-kesh/leetcode/tree/master/0198-house-robber) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sharu-kesh/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sharu-kesh/leetcode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sharu-kesh/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
