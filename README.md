@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sharu-kesh/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/sharu-kesh/leetcode/tree/master/0231-power-of-two) |
 | [0556-next-greater-element-iii](https://github.com/sharu-kesh/leetcode/tree/master/0556-next-greater-element-iii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sharu-kesh/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sharu-kesh/leetcode/tree/master/0070-climbing-stairs) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sharu-kesh/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Prefix Sum
 |  |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/sharu-kesh/leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sharu-kesh/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
