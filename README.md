@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/sharu-kesh/leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/sharu-kesh/leetcode/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/sharu-kesh/leetcode/tree/master/0134-gas-station) |
+| [0162-find-peak-element](https://github.com/sharu-kesh/leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/sharu-kesh/leetcode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/sharu-kesh/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/sharu-kesh/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/sharu-kesh/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sharu-kesh/leetcode/tree/master/0064-minimum-path-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/sharu-kesh/leetcode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
