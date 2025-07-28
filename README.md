@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sharu-kesh/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1559-cherry-pickup-ii](https://github.com/sharu-kesh/leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/sharu-kesh/leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1753-path-with-minimum-effort](https://github.com/sharu-kesh/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/sharu-kesh/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/sharu-kesh/leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sharu-kesh/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sharu-kesh/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1753-path-with-minimum-effort](https://github.com/sharu-kesh/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sharu-kesh/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/sharu-kesh/leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Simulation
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sharu-kesh/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1753-path-with-minimum-effort](https://github.com/sharu-kesh/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Trie
 |  |
 | ------- |
@@ -187,10 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/sharu-kesh/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sharu-kesh/leetcode/tree/master/0064-minimum-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/sharu-kesh/leetcode/tree/master/1559-cherry-pickup-ii) |
+| [1753-path-with-minimum-effort](https://github.com/sharu-kesh/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/sharu-kesh/leetcode/tree/master/0162-find-peak-element) |
+| [1753-path-with-minimum-effort](https://github.com/sharu-kesh/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Backtracking
 |  |
 | ------- |
@@ -199,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sharu-kesh/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/sharu-kesh/leetcode/tree/master/1753-path-with-minimum-effort) |
+## Union Find
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/sharu-kesh/leetcode/tree/master/1753-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
