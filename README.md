@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sharu-kesh/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0744-network-delay-time](https://github.com/sharu-kesh/leetcode/tree/master/0744-network-delay-time) |
 | [1753-path-with-minimum-effort](https://github.com/sharu-kesh/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sharu-kesh/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/sharu-kesh/leetcode/tree/master/2479-meeting-rooms-iii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/sharu-kesh/leetcode/tree/master/0744-network-delay-time) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sharu-kesh/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1753-path-with-minimum-effort](https://github.com/sharu-kesh/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Trie
@@ -207,9 +209,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/sharu-kesh/leetcode/tree/master/0744-network-delay-time) |
 | [1753-path-with-minimum-effort](https://github.com/sharu-kesh/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
 | ------- |
 | [1753-path-with-minimum-effort](https://github.com/sharu-kesh/leetcode/tree/master/1753-path-with-minimum-effort) |
+## Graph
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/sharu-kesh/leetcode/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/sharu-kesh/leetcode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
