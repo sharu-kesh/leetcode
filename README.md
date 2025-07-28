@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/sharu-kesh/leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1813-maximum-erasure-value](https://github.com/sharu-kesh/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/sharu-kesh/leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sharu-kesh/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sharu-kesh/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/sharu-kesh/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sharu-kesh/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sharu-kesh/leetcode/tree/master/0231-power-of-two) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sharu-kesh/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Recursion
 |  |
 | ------- |
@@ -189,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/sharu-kesh/leetcode/tree/master/0162-find-peak-element) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sharu-kesh/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sharu-kesh/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
