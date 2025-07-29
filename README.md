@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/sharu-kesh/leetcode/tree/master/0210-course-schedule-ii) |
 | [0744-network-delay-time](https://github.com/sharu-kesh/leetcode/tree/master/0744-network-delay-time) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sharu-kesh/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1753-path-with-minimum-effort](https://github.com/sharu-kesh/leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/sharu-kesh/leetcode/tree/master/0210-course-schedule-ii) |
 | [0744-network-delay-time](https://github.com/sharu-kesh/leetcode/tree/master/0744-network-delay-time) |
 | [1753-path-with-minimum-effort](https://github.com/sharu-kesh/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
@@ -218,9 +220,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/sharu-kesh/leetcode/tree/master/0210-course-schedule-ii) |
 | [0744-network-delay-time](https://github.com/sharu-kesh/leetcode/tree/master/0744-network-delay-time) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/sharu-kesh/leetcode/tree/master/0744-network-delay-time) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/sharu-kesh/leetcode/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
