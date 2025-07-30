@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sharu-kesh/leetcode/tree/master/0231-power-of-two) |
 | [0556-next-greater-element-iii](https://github.com/sharu-kesh/leetcode/tree/master/0556-next-greater-element-iii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sharu-kesh/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sharu-kesh/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sharu-kesh/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sharu-kesh/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/sharu-kesh/leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sharu-kesh/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2317-count-collisions-on-a-road](https://github.com/sharu-kesh/leetcode/tree/master/2317-count-collisions-on-a-road) |
 | [3396-valid-word](https://github.com/sharu-kesh/leetcode/tree/master/3396-valid-word) |
 ## Sorting
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sharu-kesh/leetcode/tree/master/0455-assign-cookies) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sharu-kesh/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/sharu-kesh/leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sharu-kesh/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sharu-kesh/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Linked List
 |  |
@@ -239,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/sharu-kesh/leetcode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/sharu-kesh/leetcode/tree/master/0820-find-eventual-safe-states) |
+## Game Theory
+|  |
+| ------- |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sharu-kesh/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 <!---LeetCode Topics End-->
