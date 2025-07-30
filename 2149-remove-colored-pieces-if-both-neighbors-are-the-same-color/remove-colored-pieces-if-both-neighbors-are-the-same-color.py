@@ -8,7 +8,6 @@ class Solution:
                 removed = stack.pop()
                 if removed == 'A': A += 1
                 else: B += 1
-        print(A, B)
-        if (A == 0 and B == 0 ) or A <= B: return False
+        if A <= B: return False
         return True
         
