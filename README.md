@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sharu-kesh/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0932-monotonic-array](https://github.com/sharu-kesh/leetcode/tree/master/0932-monotonic-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sharu-kesh/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1222-remove-covered-intervals](https://github.com/sharu-kesh/leetcode/tree/master/1222-remove-covered-intervals) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sharu-kesh/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1559-cherry-pickup-ii](https://github.com/sharu-kesh/leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/sharu-kesh/leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sharu-kesh/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/sharu-kesh/leetcode/tree/master/0455-assign-cookies) |
+| [1222-remove-covered-intervals](https://github.com/sharu-kesh/leetcode/tree/master/1222-remove-covered-intervals) |
 | [2479-meeting-rooms-iii](https://github.com/sharu-kesh/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sharu-kesh/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Heap (Priority Queue)
