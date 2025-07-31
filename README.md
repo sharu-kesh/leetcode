@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/sharu-kesh/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sharu-kesh/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sharu-kesh/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3034-points-that-intersect-with-cars](https://github.com/sharu-kesh/leetcode/tree/master/3034-points-that-intersect-with-cars) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/sharu-kesh/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/sharu-kesh/leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/sharu-kesh/leetcode/tree/master/2479-meeting-rooms-iii) |
+| [3034-points-that-intersect-with-cars](https://github.com/sharu-kesh/leetcode/tree/master/3034-points-that-intersect-with-cars) |
 ## Stack
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sharu-kesh/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/sharu-kesh/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3034-points-that-intersect-with-cars](https://github.com/sharu-kesh/leetcode/tree/master/3034-points-that-intersect-with-cars) |
 ## Depth-First Search
 |  |
 | ------- |
