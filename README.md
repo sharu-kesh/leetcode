@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/sharu-kesh/leetcode/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/sharu-kesh/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sharu-kesh/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/sharu-kesh/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/sharu-kesh/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Trie
 |  |
@@ -242,10 +243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sharu-kesh/leetcode/tree/master/0210-course-schedule-ii) |
 | [0744-network-delay-time](https://github.com/sharu-kesh/leetcode/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/sharu-kesh/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/sharu-kesh/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/sharu-kesh/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
 | ------- |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/sharu-kesh/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/sharu-kesh/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sharu-kesh/leetcode/tree/master/0210-course-schedule-ii) |
 | [0744-network-delay-time](https://github.com/sharu-kesh/leetcode/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/sharu-kesh/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/sharu-kesh/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Shortest Path
 |  |
 | ------- |
