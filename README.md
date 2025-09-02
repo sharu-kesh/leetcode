@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/sharu-kesh/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sharu-kesh/leetcode/tree/master/0070-climbing-stairs) |
+| [0223-rectangle-area](https://github.com/sharu-kesh/leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/sharu-kesh/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sharu-kesh/leetcode/tree/master/0326-power-of-three) |
 | [0556-next-greater-element-iii](https://github.com/sharu-kesh/leetcode/tree/master/0556-next-greater-element-iii) |
@@ -282,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sharu-kesh/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/sharu-kesh/leetcode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
