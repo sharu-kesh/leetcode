@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sharu-kesh/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sharu-kesh/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sharu-kesh/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sharu-kesh/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/sharu-kesh/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2317-count-collisions-on-a-road](https://github.com/sharu-kesh/leetcode/tree/master/2317-count-collisions-on-a-road) |
 | [3396-valid-word](https://github.com/sharu-kesh/leetcode/tree/master/3396-valid-word) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sharu-kesh/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sharu-kesh/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/sharu-kesh/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3034-points-that-intersect-with-cars](https://github.com/sharu-kesh/leetcode/tree/master/3034-points-that-intersect-with-cars) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sharu-kesh/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
