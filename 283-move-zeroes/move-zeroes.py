@@ -3,14 +3,11 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        lastidx = -1
-        n = len(nums)
-        for i in range(n):
-            if nums[i] != 0:
-                nums[lastidx + 1] = nums[i]
-                lastidx += 1
-        
-        for i in range(lastidx + 1, n):
-            nums[i] = 0
+        last_seen = 0
+        for i, val in enumerate(nums):
+            if val != 0:
+                nums[last_seen], nums[i] = nums[i], nums[last_seen]
+                last_seen += 1
+        return nums
             
         
