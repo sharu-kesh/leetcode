@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/sharu-kesh/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/sharu-kesh/leetcode/tree/master/0496-next-greater-element-i) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sharu-kesh/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sharu-kesh/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2211-count-collisions-on-a-road](https://github.com/sharu-kesh/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2317-count-collisions-on-a-road](https://github.com/sharu-kesh/leetcode/tree/master/2317-count-collisions-on-a-road) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/sharu-kesh/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/sharu-kesh/leetcode/tree/master/0496-next-greater-element-i) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sharu-kesh/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Math
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/sharu-kesh/leetcode/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/sharu-kesh/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/sharu-kesh/leetcode/tree/master/0556-next-greater-element-iii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sharu-kesh/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sharu-kesh/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sharu-kesh/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sharu-kesh/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/sharu-kesh/leetcode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/sharu-kesh/leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/sharu-kesh/leetcode/tree/master/0455-assign-cookies) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sharu-kesh/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sharu-kesh/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/sharu-kesh/leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sharu-kesh/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
